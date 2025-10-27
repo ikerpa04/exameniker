@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: ExamenIker
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Comandos: UD01_exam.md
+  - Documentación: examenespe/examenespe.md

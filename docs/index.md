@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bienvenido a mi examen
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Soy **Iker Patiño Alvarez**
 
-## Commands
+Voy al curso *2ºASIX*
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Hoy es ***27/10/2025***
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Páginas
+	- Comandos
+	- Documentación
